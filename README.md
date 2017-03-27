@@ -1,8 +1,5 @@
 # Curriculum Vitae
 > Md. Shohel Rana
-> 41/1, College Road, Ainusbag, Dakshin Khan, Uttara, Dhaka
-> Email Address: iamshohelrana@gmail.com
-> Mobile: +8801735755570
 > Web: www.e2ecode.blogspot.com
 
 ## Objective
