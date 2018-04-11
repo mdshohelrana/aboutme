@@ -1,16 +1,22 @@
 # Curriculum Vitae
 > Md. Shohel Rana
-> Web: www.e2ecode.blogspot.com
+> Web: www.shohel.net
 
 ## Objective
 To leverage my skills, knowledge and experience to deliver value to the company while being resourceful, innovative and flexible and in the process, acquire new responsibilities in order to grow in the company to achieve a leadership role in a challenging and creative environment.
 
 ## Professional Summary
-- Over all 8 years of experience on developing large scale software applications across web, mobile and desktop. Not a generalist, but an expert in many of the areas that interconnect across the industry.
-- Extensive knowledge in AngularJS 1.xx & 2, Typescript, JQuery, JavaScript, NodeJS, ExpressJS, HTML5, CSS3, MongoDB, C#, ASP.NET-Web API, MVC5, SQL-Server, RDLC, KnockoutJS, BreezeJS, EF, NHibernate, Crystal Report.
-- Experience in SQL-Server and reporting frameworks like SSRS, Bootstrap, SASS, C++, Source control tools like TFS, Git, Task management tools like Asana, WCF based services, ADO.NET, WPF, LINQ, NUnit, Log4Net, Unity and StructureMap. 
-- Has the ability to understand and transform complex business requirements into software. Ensuring applications are delivered on time, to specification and scalable.
-- Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.
+- More than 8+ years of experience in software design and development of large scale applications. 
+- Sound knowledge of object-oriented programming and types of relationships of it. 
+- Profound knowledge of Relational databases and object relational mapping. 
+- Knowledge of Software Development Life Cycle, Design Pattern, N-Tire Application Development. 
+- Ability to learn new things in short time & develop thyself for new technologies. 
+- Experience working on SCRUM process and following Agile Methodology.
+- Extensive knowledge of source control, unit testing, code verification and documentation.
+- Exceptional ability to work in a thriving, fast-paced and team environment.
+- Ability to perform programming, debugging, data analysis and system analysis.
+- Proven ability to engage on multiple projects with competing deadlines.
+- Ability to solve complex problems and communicate clearly and effectively.  
 
 ## Work Experience
 > Senior Software Engineer (December 2010 – To date)
